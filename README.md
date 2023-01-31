@@ -1,1 +1,1 @@
-# futurereadytalent
+# serverless project
